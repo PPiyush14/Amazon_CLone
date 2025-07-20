@@ -26,6 +26,7 @@ To view the project locally:
 
 1. Clone the repository:
    ```bash
+   https://github.com/PPiyush14/Amazon_CLone.git
    
 2. Open the index.html file in your browser.
 
